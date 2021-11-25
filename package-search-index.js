@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"AppCliente.conexion"},{"l":"AppServidora.conexion"},{"l":"control"},{"l":"general"},{"l":"modelo"},{"l":"vista"}];updateSearchResults();
